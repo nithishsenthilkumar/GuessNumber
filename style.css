@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&display=swap');
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background: linear-gradient(45deg,#ee9ca7,#ffdde1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100%;
+    width: 100%;
+    height: 100vh;
+    font-family: 'Cinzel', serif;
+}
+
+#title{
+    text-align: center;
+    margin-top: 200px;
+}
+
+#heading h1{
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+.head2 h2{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#textBox{
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    height: 30px;
+    margin-left: 800px;
+    margin-top: 20px;
+}
+
+#checkButton{
+    width: 80px;
+    height: 30px;
+    font-family: 'Cinzel', serif;
+}
+
+#attemptLabel{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+.loss{
+    text-align: center;
+    padding-top: 400px;
+}
